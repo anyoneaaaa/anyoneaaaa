@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anyoneaaaa
+- 👋 Hi, I’m Ayush Agarwal
 - 👀 I’m interested in game dev ,front end,UX/UI,cyber security
 - 🌱 I’m currently looking for job in UX/UI Design and Web Development
-- 💞️ I’m looking to collaborate on any Project that can Develop my skills
+- 💞️ I’m looking to collaborate on any Project that can help Develop my skills
 - 📫 Reach me by mail agarwalayush19999@gmail.com
 
 <!---
